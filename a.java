@@ -6,7 +6,7 @@ Build tool
 ANT, maven
 CICD
 Jenkins
-Artifactory 
+Artifactory- nexus 
 docker
 K8
 GCP
