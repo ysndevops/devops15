@@ -10,4 +10,3 @@ Artifactory- nexus
 docker 
 K8
 GCP
-conflict
