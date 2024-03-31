@@ -7,6 +7,7 @@ ANT, maven
 CICD
 Jenkins
 Artifactory- nexus 
-docker
+docker 
 K8
 GCP
+conflict
