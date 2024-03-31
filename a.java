@@ -5,8 +5,8 @@ GIT
 Build tool
 ANT, maven
 CICD
-Jenkins
-Artifactory 
+Jenkins- CICCD tool
+Artifactory- nexus 
 docker
 K8
 GCP
